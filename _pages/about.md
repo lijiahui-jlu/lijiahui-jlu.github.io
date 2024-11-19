@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-李家辉，吉林大学“鼎新学者”支持计划博士后，入选国家资助博士后研究人员计划 (C档)。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**宝钢优秀学生奖（研究生）**、**吉林大学十佳博士研究生**、**中国一汽“红旗”奖学金**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省普通高校省级优秀大学生**、**吉林大学优秀博士学位论文**、**吉林省优秀硕士学位论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
+李家辉，吉林大学“鼎新学者”支持计划博士后，入选国家资助博士后研究人员计划 (C档)。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**中国商业联合会科学技术奖二等奖**、**宝钢优秀学生奖（研究生）**、**吉林大学十佳博士研究生**、**中国一汽“红旗”奖学金**、**INFOCOM 2021 Student Conference Award**、**国家奖学金**、**王湘浩奖学金**、**吉林省普通高校省级优秀大学生**、**吉林大学优秀博士学位论文**、**吉林省优秀硕士学位论文**、**优秀研究生**、**优秀毕业生**等多项奖励和荣誉称号。
 
-近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文20余篇，其中**中国计算机学会推荐A类、B类期刊和会议及中科院1区10余篇**，包括**IEEE/ACM ToN、IEEE JSAC、IEEE TMC、IEEE TWC、IEEE TCOM、IEEE IoT-J、IEEE WCM、IEEE TIV、IEEE INFOCOM、IEEE GLOBECOM、IEEE WCNC**和**IEEE ICC**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**国家资助博士后研究人员计划项目**、**中国博士后科学基金面上项目**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等
+近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**中国计算机学会推荐A类、B类期刊和会议及中科院1区近20篇**，包括**IEEE/ACM ToN、IEEE JSAC、IEEE TMC、IEEE TWC、IEEE TCOM、IEEE IoT-J、IEEE WCM、IEEE TIV、IEEE INFOCOM、IEEE GLOBECOM、IEEE WCNC**和**IEEE ICC**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**国家资助博士后研究人员计划项目**、**中国博士后科学基金面上项目**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等
 
 主要研究方向为：空天地一体化网络、异构协作通信、多目标优化、深度强化学习与演化学习。如果您愿意提供指导与合作，烦请您随时通过邮件（lijiahui0803@foxmail.com）或微信（ljh1009501336）与我联系，期待您的见解与帮助。
 
@@ -33,8 +33,6 @@ redirect_from:
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" has been accepted by IEEE ICC 2024 (通信作者，CCF-C)!  
 [12/2023] Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" has been accepted by IEEE WCNC 2024 (通信作者，CCF-C)!  
 [12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" has been accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!  
-[09/2023] Our paper "Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (通信作者，中科院1区)!  
-[06/2023] Our paper "Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays" has been accepted by IEEE Transactions on Mobile Computing (第一作者，CCF-A)!
 
 ## 教育经历
 (1) 2021-9至2024-6，吉林大学，软件工程，博士，导师：孙庚教授  
@@ -82,15 +80,16 @@ redirect_from:
 16. Hongjuan Li, Hui Kang, __<u>Jiahui Li*</u>__, Yanyun Pang, Geng Sun\*, Shuang Liang. Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning, *Applied Soft Computing*, 2024. **(IF=8.700) (SCI, 中科院1区)**
 17. Boxiong Wang, Hui Kang,  Geng Sun\*, __<u>Jiahui Li*</u>__, Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm, *Applied Soft Computing*, 2024. **(IF=8.700) (SCI, 中科院1区)**
 18. Shuang Liang, Minghao Yin, Geng Sun\*, __<u>Jiahui Li*</u>__, Hongjuan Li, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Cooperative Communication via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method, *IEEE Transactions on Intelligent Vehicles*, 2024. **(IF=14.00) (SCI, 中科院1区)**
-19. Long Li, Gaochao Xu, Ziqi Liu, Jiaqi Ge, Wenchao Jiang\*, __<u>Jiahui Li*</u>__, Task execution latency minimization for energy-sensitive IoTs in wireless powered mobile edge computing: A DRL-based method, *Computer Network*, 251, 110633, 2024. **(CCF B类期刊)**
-20. Wenwen Xie, Geng Sun\*, __<u>Jiahui Li*</u>__, Xue Wang, Jiacheng Wang, Hongyang Du, Dusit Niyato, IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT, *IEEE Global Communications Conference (IEEE GLOBECOM 2024)*. **(CCF C类会议)**
-21. Boxiong Wang, Hui Kang, Geng Sun\*, __<u>Jiahui Li*</u>__, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
-22. Chuang Zhang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Bi-objective Optimization for UAV Swarm-enabled Relay Communications via Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
-23. Jiawei Huang, Aimin Wang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
-24. Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun\*, __<u>Jiahui Li*</u>__, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
-25. Bingtian Li, Hui Kang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
-26. Geng Sun, Bei Liu, __<u>Jiahui Li*</u>__, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
-27. Jiawei Huang, Aimin Wang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+19. Fang Mei, Yuqing Liu, Shuo Gao, __<u>Jiahui Li*</u>__, Hui Kang\*, Sujin Hou, Geng Sun. Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion, *Chinese Journal of Aeronautics*, 2024. **(IF=5.3) (SCI, 中科院1区)**
+20. Long Li, Gaochao Xu, Ziqi Liu, Jiaqi Ge, Wenchao Jiang\*, __<u>Jiahui Li*</u>__, Task execution latency minimization for energy-sensitive IoTs in wireless powered mobile edge computing: A DRL-based method, *Computer Network*, 251, 110633, 2024. **(CCF B类期刊)**
+21. Wenwen Xie, Geng Sun\*, __<u>Jiahui Li*</u>__, Xue Wang, Jiacheng Wang, Hongyang Du, Dusit Niyato, IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT, *IEEE Global Communications Conference (IEEE GLOBECOM 2024)*. **(CCF C类会议)**
+22. Boxiong Wang, Hui Kang, Geng Sun\*, __<u>Jiahui Li*</u>__, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
+23. Chuang Zhang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Bi-objective Optimization for UAV Swarm-enabled Relay Communications via Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
+24. Jiawei Huang, Aimin Wang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
+25. Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun\*, __<u>Jiahui Li*</u>__, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
+26. Bingtian Li, Hui Kang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
+27. Geng Sun, Bei Liu, __<u>Jiahui Li*</u>__, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+28. Jiawei Huang, Aimin Wang, Geng Sun\*, __<u>Jiahui Li*</u>__, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
 
 ## 发明专利
 1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL 202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
