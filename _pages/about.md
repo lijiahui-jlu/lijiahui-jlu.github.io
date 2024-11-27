@@ -1,7 +1,7 @@
 ---
 ![00BDD385](https://github.com/lijiahui-jlu/lijiahui-jlu.github.io/assets/149639643/89846308-81d3-4d8e-8f26-7f4f3d8bc4c4)
 permalink: /
-title: "李家辉"
+title: "李家辉, 吉林大学"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
