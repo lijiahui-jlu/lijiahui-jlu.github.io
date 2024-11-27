@@ -18,7 +18,7 @@ redirect_from:
 
 ## News
 
-[11/2024] Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!
+[11/2024] Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!\\
 [10/2024] Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者，中科院1区)!  
 [08/2024] Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者，中科院1区)!  
 [08/2024] Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" has been accepted by IEEE Journal on Selected Areas in Communications (第一作者，CCF-A)!  
