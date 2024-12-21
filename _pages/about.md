@@ -18,10 +18,10 @@ redirect_from:
 
 ## News
 
-[12/2024] Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (中科院1区)!
-[12/2024] Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (中科院1区)!
-[12/2024] Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (中科院1区)!
-[11/2024] Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!
+[12/2024] Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (中科院1区)!  
+[12/2024] Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (中科院1区)!  
+[12/2024] Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (中科院1区)!  
+[11/2024] Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!  
 [10/2024] Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者，中科院1区)!  
 [08/2024] Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者，中科院1区)!  
 [08/2024] Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" has been accepted by IEEE Journal on Selected Areas in Communications (第一作者，CCF-A)!  
@@ -32,10 +32,15 @@ redirect_from:
 [05/2024] Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" has been accepted by IEEE Transactions on Wireless Communications (通信作者，中科院1区)!  
 [03/2024] Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" has been accepted by Applied Soft Computing (通信作者，中科院1区)!  
 [02/2024] I will serve as a PC member of ICA3PP 2024!  
+
 [01/2024] Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" has been accepted by IEEE ICC 2024 (通信作者，CCF-C)!  
+
 [01/2024] Our paper "Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array" has been accepted by IEEE ICC 2024 (通信作者，CCF-C)!  
+
 [12/2023] Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" has been accepted by IEEE WCNC 2024 (通信作者，CCF-C)!  
+
 [12/2023] Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" has been accepted by IEEE INFOCOM 2024 (第一作者，CCF-A)!  
+
 
 ## 教育经历
 (1) 2021-9至2024-6，吉林大学，软件工程，博士，导师：孙庚教授  
