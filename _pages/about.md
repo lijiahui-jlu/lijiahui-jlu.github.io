@@ -17,9 +17,10 @@ redirect_from:
 
 
 ## News
+
 [12/2024] Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (中科院1区)!
 [12/2024] Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (中科院1区)!
-[12/2024] Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (中科院1区)! 
+[12/2024] Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (中科院1区)!
 [11/2024] Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者，CCF-A)!
 [10/2024] Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者，中科院1区)!  
 [08/2024] Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者，中科院1区)!  
