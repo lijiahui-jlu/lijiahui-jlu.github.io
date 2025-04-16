@@ -139,6 +139,7 @@ redirect_from:
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, 2024. **(IF=10.400) (SCI, 中科院1区)**
 - Shuang Liang, Minghao Yin, Geng Sun**\***, **<u>Jiahui Li</u>****\***. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**
+-Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Dusit Niyato, Dong In Kim, Ping Zhang. Exploring Multi-Agent Dynamics for Generative AI and Large Language Models in Mobile Edge Networks, *IEEE Wireless Communications*, 2025. **(IF=8.9) (SCI, 中科院1区)**
 - Hongjuan Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Xue Wang, Dusit Niyato, Victor C.M. Leung. UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
 - Shuang Liang, Minhao Yin, Wenwen Xie, Zenmin Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato. Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
@@ -165,10 +166,12 @@ redirect_from:
 
 1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
 2. 一种无人机蜂群安全通信方法，专利号：ZL202210003107.6，孙庚、郑晓雅、**<u>李家辉</u>**、王爱民、梁爽、刘昭、孙泽敏、刘衍珩
-3. 一种基于多目标优化的卫星认知无线电低干扰通信方法，专利号：ZL 202411730633.8，康辉、张超、刘琦、**<u>李家辉</u>**、李洪娟
-4. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
-5. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
-6. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
+3. 一种基于无人机蜂群的海上保密通信方法，专利号：ZL202211444113.1，王爱民、黄嘉玮、孙庚、李家辉、郑晓雅、孙泽敏、刘赛超、张闯
+4. 一种基于多目标优化的卫星认知无线电低干扰通信方法，专利号：ZL 202411730633.8，康辉、张超、刘琦、**<u>李家辉</u>**、李洪娟
+5. 一种车辆边缘网络中任务协同卸载方法，专利号：ZL202211163428.9，孙庚、张嘉赟、孙泽敏、李家辉、何龙、郑晓雅、刘赛超、梁爽
+6. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
+7. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
+8. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
 
 <span class='anchor' id='-ryjx'></span>
 
