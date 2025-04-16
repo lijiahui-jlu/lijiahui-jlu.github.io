@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '04/2025'
+    content: 'Our paper "Exploring Multi-Agent Dynamics for Generative AI and Large Language Models in Mobile Edge Networks" has been accepted by IEEE Wireless Communications (通信作者, 中科院1区)!'
+
   - date: '03/2025'
     content: 'Our paper "A Correlated Data-Driven Collaborative Beamforming Approach for Energy-efficient IoT Data Transmission" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
