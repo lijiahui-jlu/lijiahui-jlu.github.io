@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '06/2025'
+    content: 'Our paper "UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+
   - date: '05/2025'
     content: 'Our paper "Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
@@ -52,20 +55,20 @@ items:
   - date: '06/2024'
     content: 'Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
   
-  - date: '05/2024'
-    content: 'Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" has been accepted by IEEE Transactions on Wireless Communications (通信作者, 中科院1区)!'
+  # - date: '05/2024'
+  #   content: 'Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" has been accepted by IEEE Transactions on Wireless Communications (通信作者, 中科院1区)!'
   
-  - date: '03/2024'
-    content: 'Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
+  # - date: '03/2024'
+  #   content: 'Our paper "Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
   
-  - date: '02/2024'
-    content: 'I will serve as a PC member of ICA3PP 2024!'
+  # - date: '02/2024'
+  #   content: 'I will serve as a PC member of ICA3PP 2024!'
   
-  - date: '01/2024'
-    content: 'Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" has been accepted by IEEE ICC 2024 (通信作者, CCF-C)!'
+  # - date: '01/2024'
+  #   content: 'Our paper "Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning" has been accepted by IEEE ICC 2024 (通信作者, CCF-C)!'
   
-  - date: '12/2023'
-    content: 'Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" has been accepted by IEEE WCNC 2024 (通信作者, CCF-C)!'
+  # - date: '12/2023'
+  #   content: 'Our paper "Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays" has been accepted by IEEE WCNC 2024 (通信作者, CCF-C)!'
 
-  - date: '12/2023'
-    content: 'Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" has been accepted by IEEE INFOCOM 2024 (第一作者, CCF-A)!'
+  # - date: '12/2023'
+  #   content: 'Our paper "Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion" has been accepted by IEEE INFOCOM 2024 (第一作者, CCF-A)!'
