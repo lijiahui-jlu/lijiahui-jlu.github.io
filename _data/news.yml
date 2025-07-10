@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '07/2025'
+    content: 'Our paper "Enhancing Evolutionary Multitasking for High-Dimensional Feature Selection Through Task Relevance Evaluation and Knowledge Transfer" has been accepted by Knowledge-based Systems (通信作者, 中科院1区)!'
+
   - date: '06/2025'
     content: 'Our paper "UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
 
