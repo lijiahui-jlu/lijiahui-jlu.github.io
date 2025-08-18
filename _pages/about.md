@@ -130,6 +130,7 @@ redirect_from:
 </div>
 </div>
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
+- Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Qingqing Wu, Dusit Niyato, Abbas Jamalipour. UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
 - Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
 - Saichao Liu, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
@@ -226,4 +227,5 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
