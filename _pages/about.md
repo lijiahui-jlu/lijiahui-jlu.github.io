@@ -129,11 +129,12 @@ redirect_from:
 -	Geng Sun, **<u>Jiahui Li</u>**, Yanheng Liu, Shuang Liang**\***, Hui Kang**\***. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9453812/)
 </div>
 </div>
-- Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
+- Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊, IEEE TMC Popular Article)**
 - Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Qingqing Wu, Dusit Niyato, Abbas Jamalipour. UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
-- Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
+- Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊, ESI高被引论文、热点论文、IEEE TMC Popular Article)**
 - Saichao Liu, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
+- Geng Sun, Long He, Zemin Sun**\***, Qingqing Wu, Shuang Liang**\***, **<u>Jiahui Li</u>**, Dusit Niyato, Victor C.M. Leung. Joint Task Offloading and Resource Allocation in Aerial-Terrestrial UAV Networks with Edge and Fog Computing for Post-Disaster Rescue, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊, ESI高被引论文、热点论文、IEEE TMC Popular Article)**
 - Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu**\***, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**
 - Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**
@@ -227,6 +228,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
