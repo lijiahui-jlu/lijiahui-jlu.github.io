@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '09/2025'
+    content: 'Our paper "Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm" has been accepted by Engineering Applications of Artificial Intelligence (通信作者, 中科院1区)!'
+
   - date: '08/2025'
     content: 'Our paper "Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
 
