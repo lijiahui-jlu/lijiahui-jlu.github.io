@@ -46,23 +46,23 @@ items:
   - date: '10/2024'
     content: 'Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者, 中科院1区)!'
   
-  - date: '08/2024'
-    content: 'Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
+  # - date: '08/2024'
+  #   content: 'Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
   
-  - date: '08/2024'
-    content: 'Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" has been accepted by IEEE Journal on Selected Areas in Communications (第一作者, CCF-A)!'
+  # - date: '08/2024'
+  #   content: 'Our paper "Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning" has been accepted by IEEE Journal on Selected Areas in Communications (第一作者, CCF-A)!'
   
-  - date: '07/2024'
-    content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691">Empowering IoT With AI: AIoT for Smart and Autonomous Systems</a>" in Electronics, welcome to submit papers!'
+  # - date: '07/2024'
+  #   content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691">Empowering IoT With AI: AIoT for Smart and Autonomous Systems</a>" in Electronics, welcome to submit papers!'
   
-  - date: '07/2024'
-    content: 'Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" has been accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!'
+  # - date: '07/2024'
+  #   content: 'Our paper "IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT" has been accepted by IEEE GLOBECOM 2024 (通信作者, CCF-C)!'
   
-  - date: '07/2024'
-    content: 'Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" has been accepted by Computer Networks (通信作者, CCF-B)!'
+  # - date: '07/2024'
+  #   content: 'Our paper "Task Execution Latency Minimization for Energy-sensitive IoTs in Wireless Powered Mobile Edge Computing: A DRL-based Method" has been accepted by Computer Networks (通信作者, CCF-B)!'
   
-  - date: '06/2024'
-    content: 'Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+  # - date: '06/2024'
+  #   content: 'Our paper "UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
   
   # - date: '05/2024'
   #   content: 'Our paper "Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks" has been accepted by IEEE Transactions on Wireless Communications (通信作者, 中科院1区)!'
