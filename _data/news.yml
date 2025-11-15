@@ -1,6 +1,18 @@
 # news items
 items:
 
+  - date: '11/2025'
+    content: 'Our paper "Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications" has been accepted by IEEE Journal on Selected Areas in Communications (通信作者, CCF-A)!'
+
+  - date: '11/2025'
+    content: 'Our paper "Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm" has been accepted by Engineering Applications of Artificial Intelligence (通信作者, CCF-A)!'
+
+  - date: '11/2025'
+    content: 'Our paper "Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm" has been accepted by Engineering Applications of Artificial Intelligence (第一作者, CCF-A)!'
+
+  - date: '11/2025'
+    content: 'Our paper "Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm" has been accepted by Engineering Applications of Artificial Intelligence (第一作者, 中科院1区)!'
+
   - date: '09/2025'
     content: 'Our paper "Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm" has been accepted by Engineering Applications of Artificial Intelligence (通信作者, 中科院1区)!'
 
@@ -43,8 +55,8 @@ items:
   - date: '11/2024'
     content: 'Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
   
-  - date: '10/2024'
-    content: 'Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者, 中科院1区)!'
+  # - date: '10/2024'
+  #   content: 'Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者, 中科院1区)!'
   
   # - date: '08/2024'
   #   content: 'Our paper "Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning" has been accepted by Applied Soft Computing (通信作者, 中科院1区)!'
