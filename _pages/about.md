@@ -35,7 +35,7 @@ redirect_from:
 
 # 💼 个人简介
 
-李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>ACM中国优秀博士学位论文奖</u>**、**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
+李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>ACM中国优秀博士学位论文奖</u>**、**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学力旺精英研究生奖</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
 
 
 近5年，以第一作者和通信作者身份共计发表高水平学术论文40余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区20余篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>KBS</u>、<u>ESWA</u>、<u>ASOC</u>、<u>EAAI</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；**发表ESI高被引论文、热点论文2篇**；获得授权发明专利10余项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
@@ -53,7 +53,7 @@ redirect_from:
 
 # 🎓 教育经历
 - *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，软件工程，博士，吉林长春，导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
-- *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a>
+- *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=592">Prof. Lingjie Duan</a>
 - *2018.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/19083.htm">康辉教授</a>
 - *2014.09 - 2018.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，学士，吉林长春
 
@@ -82,6 +82,16 @@ redirect_from:
 <span class='anchor' id='-xscg'></span>
 
 # 📝 代表性学术成果
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='/images/tmc2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **<u>Jiahui Li</u>**,  Geng Sun**\***, Qingqing Wu, Shuang Liang, Jiacheng Wang, Dusit Niyato, Dong In Kim. Aerial Secure Collaborative Communications under Eavesdropper Collusion in Low-altitude Economy: A Generative Swarm Intelligent Approach, *IEEE Transactions on Mobile Computing*, 2025. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)** [[IEEE Xplore]](https://arxiv.org/abs/2503.00721)
+</div>
+
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,13 +133,10 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2021</div><img src='/images/jsac2021.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Geng Sun, **<u>Jiahui Li</u>**, Yanheng Liu, Shuang Liang**\***, Hui Kang**\***. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9453812/)
-</div>
-</div>
+- **<u>Jiahui Li</u>****\***, Geng Sun**\***, Xiaoyu Sun, Fang Mei**\***, Jingjing Wang, Xiangwang Hou, Daxin Tian, Victor Leung. Securing the Sky: Integrated Satellite-UAV Physical Layer Security for Low-Altitude Wireless Networks, *IEEE Wireless Communications*, 2025. **(IF=8.9) (SCI, 中科院1区)**
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊,  <font color="#C00000">IEEE TMC Popular Article</font>)**
+- Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Ruichen Zhang, Dusit Niyato, Shiwen Mao, Tony Q.S. Quek. Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications, *IEEE Journal on Selected Areas in Communications*, 2025. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Low-altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Qingqing Wu, Dusit Niyato, Abbas Jamalipour. UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
 - Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊, <font color="#C00000">ESI高被引论文、热点论文、IEEE TMC Popular Article</font>)**
@@ -191,21 +198,22 @@ redirect_from:
 
 1. 2024吉林大学十佳研究生 ***(研究生最高荣誉，全校10人)***
 2. 2023年度宝钢优秀学生奖(研究生) ***(全校3人)***
-3. ACM中国优秀博士学位论文奖（2024年，长春分会）
-4. 2023年吉林省普通高校省级优秀大学生
-5. 吉林省第三届博士后创新创业大赛优秀奖：低空智能网联无人机通感算一体化组网关键技术（1/5）
-6. 中国商业联合会科学技术奖二等奖 (2023年)：分布式协作波束成形动态多目标优化方法及应用 (9/12)
-7. INFOCOM 2021 Student conference award ***(全球70人)***
-8. 首届一汽”红旗“奖学金(研究生) ***(奖金5万元)***
-9. 王湘浩奖学金 ***(硕士、博士均获奖，全院1人)***
-10. 吉林大学优秀博士学位论文
-11. 吉林省、吉林大学优秀硕士学位论文
-12. 国家奖学金 (2020年度、2022年度、2023年度)
-13. 吉林大学学术业绩奖学金 (2021年度、2022年度、2023年度)
-14. 研究生优秀奖学金一等 (2020年度、2022年度、2023年度)
-15. 优秀研究生 (2020年度、2022年度、2023年度)
-16. 优秀毕业生 (2021年、2024年)
-17. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖
+3. 第九届吉林大学力旺精英研究生奖
+4. ACM中国优秀博士学位论文奖（2024年，长春分会）
+5. 2023年吉林省普通高校省级优秀大学生
+6. 吉林省第三届博士后创新创业大赛优秀奖：低空智能网联无人机通感算一体化组网关键技术（1/5）
+7. 中国商业联合会科学技术奖二等奖 (2023年)：分布式协作波束成形动态多目标优化方法及应用 (9/12)
+8. INFOCOM 2021 Student conference award ***(全球70人)***
+9. 首届一汽”红旗“奖学金(研究生) ***(奖金5万元)***
+10. 王湘浩奖学金 ***(硕士、博士均获奖，全院1人)***
+11. 吉林大学优秀博士学位论文
+12. 吉林省、吉林大学优秀硕士学位论文
+13. 国家奖学金 (2020年度、2022年度、2023年度)
+14. 吉林大学学术业绩奖学金 (2021年度、2022年度、2023年度)
+15. 研究生优秀奖学金一等 (2020年度、2022年度、2023年度)
+16. 优秀研究生 (2020年度、2022年度、2023年度)
+17. 优秀毕业生 (2021年、2024年)
+18. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖
 
 <span class='anchor' id='-xsjz'></span>
 
@@ -238,6 +246,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
