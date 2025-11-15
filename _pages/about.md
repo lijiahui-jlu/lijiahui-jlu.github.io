@@ -213,12 +213,13 @@ redirect_from:
 # 🏛️ 学术兼职
 1. 中国通信学会会员
 2. 《海南大学学报(自然科学版)》青年编委
-3. Guest Editor, Electronics, Special Issue on "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
-4. WiOpt 2023 volunteer
-5. IEEE WCNC 2024 TPC member
-6. ICA3PP 2024 PC member
-7. PIMRC 24 PC member
-8. 多个顶级期刊与学术会议审稿人
+3. Leader Guest Editor, Network, Special Issue on "[Advancements in Space-Air-Ground Integrated Networks](https://www.mdpi.com/journal/network/special_issues/VV8D6Q5EW1)"
+4. Guest Editor, Electronics, Special Issue on "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
+5. WiOpt 2023 volunteer
+6. IEEE WCNC 2024、2026 TPC member
+7. ICA3PP 2024 PC member
+8. PIMRC 24 PC member
+9. 多个顶级期刊与学术会议审稿人
    - IEEE Journal on Selected Areas in Communications
    - IEEE Transactions on Intelligent Transportation Systems
    - IEEE Transactions on Mobile Computing
@@ -238,7 +239,8 @@ redirect_from:
    - Computers, Materials & Continua
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
-9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
