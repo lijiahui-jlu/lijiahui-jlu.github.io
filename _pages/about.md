@@ -84,6 +84,15 @@ redirect_from:
 # 📝 代表性学术成果
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2026</div><img src='/images/jsac2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **<u>Jiahui Li</u>**,  Geng Sun**\***, Zemin Sun, Jiacheng Wang, Yinqiu Liu, Ruichen Zhang, Dusit Niyato, Shiwen Mao. LLM-guided DRL for Multi-tier LEO Satellite Networks with Hybrid FSO/RF Links, *IEEE Journal on Selected Areas in Communications*, 2025. **(IF=13.8) (SCI, 中科院1区, CCF A类期刊)** [[Arixv]](https://arxiv.org/abs/2505.11978)
+</div>
+
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='/images/tmc2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,14 +126,8 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN 2023</div><img src='/images/ton2023.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 -	**<u>Jiahui Li</u>**, Geng Sun**\***, Hui Kang, Aimin Wang, Shuang Liang, Yanheng Liu, Ying Zhang. Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks, *IEEE/ACM Transactions on Networking*, 2023. **(IF=3.796) (SCI, CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10012331/)
-
-</div>
-</div>
-
 -	**<u>Jiahui Li</u>**, Hui Kang, Geng Sun**\***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9488827/)
 - **<u>Jiahui Li</u>****\***, Geng Sun**\***, Xiaoyu Sun, Fang Mei**\***, Jingjing Wang, Xiangwang Hou, Daxin Tian, Victor Leung. Securing the Sky: Integrated Satellite-UAV Physical Layer Security for Low-Altitude Wireless Networks, *IEEE Wireless Communications*, 2025. **(IF=8.9) (SCI, 中科院1区)**
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊,  <font color="#C00000">IEEE TMC Popular Article</font>)**
@@ -240,6 +243,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
