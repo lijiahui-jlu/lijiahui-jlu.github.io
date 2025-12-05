@@ -84,7 +84,7 @@ redirect_from:
 # 📝 代表性学术成果
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2026</div><img src='/images/JSAC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2026</div><img src='/images/JSAC2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **<u>Jiahui Li</u>**,  Geng Sun**\***, Zemin Sun, Jiacheng Wang, Yinqiu Liu, Ruichen Zhang, Dusit Niyato, Shiwen Mao. LLM-guided DRL for Multi-tier LEO Satellite Networks with Hybrid FSO/RF Links, *IEEE Journal on Selected Areas in Communications*, 2025. **(IF=13.8) (SCI, 中科院1区, CCF A类期刊)** [[Arixv]](https://arxiv.org/abs/2505.11978)
@@ -243,6 +243,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
