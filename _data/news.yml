@@ -58,8 +58,8 @@ items:
   - date: '12/2024'
     content: 'Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
   
-  - date: '11/2024'
-    content: 'Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+  # - date: '11/2024'
+  #   content: 'Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
   
   # - date: '10/2024'
   #   content: 'Our paper "Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion" has been accepted by Chinese Journal of Aeronautics (通信作者, 中科院1区)!'
