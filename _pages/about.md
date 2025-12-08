@@ -131,7 +131,6 @@ redirect_from:
 -	**<u>Jiahui Li</u>**, Hui Kang, Geng Sun**\***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9488827/)
 - **<u>Jiahui Li</u>****\***, Geng Sun**\***, Xiaoyu Sun, Fang Mei**\***, Jingjing Wang, Xiangwang Hou, Daxin Tian, Victor Leung. Securing the Sky: Integrated Satellite-UAV Physical Layer Security for Low-Altitude Wireless Networks, *IEEE Wireless Communications*, 2025. **(IF=8.9) (SCI, 中科院1区)**
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊,  <font color="#C00000">IEEE TMC Popular Article</font>)**
-- Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Ruichen Zhang, Dusit Niyato, Shiwen Mao, Tony Q.S. Quek. Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications, *IEEE Journal on Selected Areas in Communications*, 2025. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Low-altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Qingqing Wu, Dusit Niyato, Abbas Jamalipour. UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
@@ -243,6 +242,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
