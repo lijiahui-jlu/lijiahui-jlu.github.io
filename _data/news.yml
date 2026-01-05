@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '01/2026'
+    content: 'Our paper "Aerial Multi-Hop Relay Optimization for Integrated Sensing and Communication: A Deep Reinforcement Learning Approach" has been accepted by Computer Network (通信作者, CCF-B)!'
+
   - date: '12/2025'
     content: 'Our paper "Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework" has been accepted by IEEE Transactions on Network Science and Engineering (通信作者, 中科院1区)!'
 
@@ -50,17 +53,17 @@ items:
   - date: '01/2025'
     content: 'Our paper "Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
 
-  - date: '12/2024'
-    content: 'Our paper "Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming" has been awarded the <font color="#C00000">Best Paper Award</font> at the Special Session on Intelligent Signal Processing, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024). (CCF C类会议)!'
+  # - date: '12/2024'
+  #   content: 'Our paper "Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming" has been awarded the <font color="#C00000">Best Paper Award</font> at the Special Session on Intelligent Signal Processing, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024). (CCF C类会议)!'
 
-  - date: '12/2024'
-    content: 'Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '12/2024'
+  #   content: 'Our paper "Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
   
-  - date: '12/2024'
-    content: 'Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '12/2024'
+  #   content: 'Our paper "UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
   
-  - date: '12/2024'
-    content: 'Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '12/2024'
+  #   content: 'Our paper "UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
   
   # - date: '11/2024'
   #   content: 'Our paper "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
