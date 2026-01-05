@@ -160,7 +160,7 @@ redirect_from:
 - Yue Chen, Hui Kang, **<u>Jiahui Li</u>****\***, Geng Sun**\***, Boxiong Wang, Jiacheng Wang, Cong Liang, Shuang Liang, Dusit Niyato. Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach, *IEEE Internet of Things Journal*, 2025. **(IF=8.200) (SCI, 中科院1区)**
 - Shuang Liang, Minghao Yin, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Hongjuan Li, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Cooperative Communication via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method, *IEEE Transactions on Intelligent Vehicles*, 2024. **(IF=14.00) (SCI, 中科院1区)**
 - Hongjuan Li, Haiyuan Chen, Miao Wang,  **<u>Jiahui Li</u>****\***, Hui Kang**\***, Yuzhuo Guan, Xu Lin. Multi-Objective Deployment Optimization for Integrated Sensing and Communication-Enabled Unmanned Aerial Vehicle Swarm, *Engineering Applications of Artificial Intelligence*, 2025. **(IF=8.0) (SCI, 中科院1区)**
-- Long Li, Gaochao Xu, Ziqi Liu, Jiaqi Ge, Wenchao Jiang**\***, **<u>Jiahui Li</u>****\***, Task execution latency minimization for energy-sensitive IoTs in wireless powered mobile edge computing: A DRL-based method, *Computer Network*, 251, 110633, 2024. **(CCF B类期刊)**
+- Long Li, Gaochao Xu, Ziqi Liu, Jiaqi Ge, Wenchao Jiang**\***, **<u>Jiahui Li</u>****\***, Task execution latency minimization for energy-sensitive IoTs in wireless powered mobile edge computing: A DRL-based method, *Computer Network*, 251, 110633, 2024. **(SCI, CCF B类期刊)**
 - Wenwen Xie, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xue Wang, Jiacheng Wang, Hongyang Du, Dusit Niyato, IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT, *IEEE Global Communications Conference (IEEE GLOBECOM 2024)*. **(CCF C类会议)**
 - Chao Zhang, Hui Kang, Geng Sun, **<u>Jiahui Li</u>**, Boxiong Wang, Bo Xu**\***. Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming, *IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)*, 2024. **(CCF C类会议, <font color="#C00000">Best Paper Award at the Special Session on Intelligent Signal Processing</font>)**
 - Boxiong Wang, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
@@ -245,6 +245,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
