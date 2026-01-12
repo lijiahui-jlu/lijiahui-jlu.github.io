@@ -2,6 +2,10 @@
 items:
 
   - date: '01/2026'
+    content: 'Our paper "Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+    
+
+  - date: '01/2026'
     content: 'Our paper "Aerial Multi-Hop Relay Optimization for Integrated Sensing and Communication: A Deep Reinforcement Learning Approach" has been accepted by Computer Network (通信作者, CCF-B)!'
 
   - date: '12/2025'
