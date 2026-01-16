@@ -1,6 +1,10 @@
 # news items
 items:
 
+
+  - date: '01/2026'
+    content: 'Our paper "Beyond Technical Metrics: Understanding the Gap Between AI Performance and Deaf User Experience in Chinese Natural Sign Language Generation" has been accepted by CHI 2026 (通信作者, CCF-A)!'
+
   - date: '01/2026'
     content: 'Our paper "UAV-Assisted Joint Data Collection and Wireless Power Transfer for Batteryless Sensor Networks" has been accepted by IEEE WCNC 2026!'
 
