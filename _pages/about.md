@@ -38,7 +38,7 @@ redirect_from:
 李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>ACM中国优秀博士学位论文奖</u>**、**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学力旺精英研究生奖</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林省优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林大学优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
 
 
-近5年，以第一作者和通信作者身份共计发表高水平学术论文近50篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区近40篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE TNSE</u>、<u>IEEE TCCN</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>KBS</u>、<u>ESWA</u>、<u>ASOC</u>、<u>EAAI</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；**发表ESI高被引论文、热点论文3篇**；获得授权发明专利10余项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
+近5年，以第一作者和通信作者身份共计发表高水平学术论文近50篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区近40篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE TNSE</u>、<u>IEEE TCCN</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>KBS</u>、<u>ESWA</u>、<u>ASOC</u>、<u>EAAI</u>、<u>IEEE INFOCOM</u>、<u>CHI</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；**发表ESI高被引论文、热点论文3篇**；获得授权发明专利10余项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
 
 主要研究方向为：
 - 空天地一体化网络
@@ -130,6 +130,7 @@ redirect_from:
 -	**<u>Jiahui Li</u>**, Geng Sun**\***, Hui Kang, Aimin Wang, Shuang Liang, Yanheng Liu, Ying Zhang. Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks, *IEEE/ACM Transactions on Networking*, 2023. **(IF=3.796) (SCI, CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10012331/)
 -	**<u>Jiahui Li</u>**, Hui Kang, Geng Sun**\***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9488827/)
 - **<u>Jiahui Li</u>****\***, Geng Sun**\***, Xiaoyu Sun, Fang Mei**\***, Jingjing Wang, Xiangwang Hou, Daxin Tian, Victor Leung. Securing the Sky: Integrated Satellite-UAV Physical Layer Security for Low-Altitude Wireless Networks, *IEEE Wireless Communications*, 2025. **(IF=8.9) (SCI, 中科院1区)**
+- Yang Liu, Hui Kang, Yurun He, **<u>Jiahui Li</u>****\***, Beyond Technical Metrics: Understanding the Gap Between AI Performance and Deaf User Experience in Chinese Natural Sign Language Generation, *ACM Conference on Human Factors in Computing Systems (CHI 2026)*. **(CCF A类会议)**
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊,  <font color="#C00000">IEEE TMC Popular Article</font>)**
 - Boxiong Wang, Hui Kang, **<u>Jiahui Li</u>****\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato, Shiwen Mao. Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Low-altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
@@ -249,6 +250,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
