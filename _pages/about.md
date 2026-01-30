@@ -134,7 +134,7 @@ redirect_from:
 - Geng Sun, Jian Xiao, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Jiawen Kang, Dusit Niyato, Shiwen Mao. Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊,  <font color="#C00000">IEEE TMC Popular Article</font>)**
 - Boxiong Wang, Hui Kang, **<u>Jiahui Li</u>****\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato, Shiwen Mao. Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Low-altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
-- Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
+- Wenwen Xie, Geng Sun**\***, Bei Liu, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, Dusit Niyato, Dong In Kim. Joint Optimization of UAV-Carried IRS for Urban Low Altitude mmWave Communications with Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2025. **(IF=7.9) (SCI, CCF A类期刊, <font color="#C00000">IEEE TMC Popular Article</font>)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Qingqing Wu, Dusit Niyato, Abbas Jamalipour. UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊, <font color="#C00000">IEEE TMC Popular Article</font>)**
 - Chuang Zhang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊, <font color="#C00000">ESI高被引论文、热点论文、IEEE TMC Popular Article</font>)**
 - Saichao Liu, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
@@ -223,6 +223,7 @@ redirect_from:
 # 🏛️ 学术兼职
 1. 中国通信学会会员
 2. 《海南大学学报(自然科学版)》青年编委
+3. Leader Guest Editor, Inventions, Special Issue on "[Revolutionizing Surveillance: Unmanned Aerial Vehicle Technology Innovations](https://www.mdpi.com/journal/inventions/special_issues/3RO8568SMY)"
 3. Leader Guest Editor, Network, Special Issue on "[Advancements in Space-Air-Ground Integrated Networks](https://www.mdpi.com/journal/network/special_issues/VV8D6Q5EW1)"
 4. Guest Editor, Electronics, Special Issue on "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
 5. WiOpt 2023 volunteer
@@ -250,6 +251,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
