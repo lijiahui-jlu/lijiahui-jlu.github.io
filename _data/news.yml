@@ -1,6 +1,8 @@
 # news items
 items:
 
+  - date: '01/2026'
+    content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/inventions/special_issues/3RO8568SMY">Revolutionizing Surveillance: Unmanned Aerial Vehicle Technology Innovations</a>" in Inventions, welcome to submit papers!'
 
   - date: '01/2026'
     content: 'Our paper "Beyond Technical Metrics: Understanding the Gap Between AI Performance and Deaf User Experience in Chinese Natural Sign Language Generation" has been accepted by CHI 2026 (通信作者, CCF-A)!'
