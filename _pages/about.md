@@ -172,7 +172,7 @@ redirect_from:
 - Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
 - Bingtian Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
 - Geng Sun, Bei Liu, **<u>Jiahui Li</u>****\***, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
-- Wen Zhang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\**, Jiacheng Wang, Changyuan Zhao and Dusit Niyato, UAV-Assisted Joint Data Collection and Wireless Power Transfer for Batteryless Sensor Networks, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2026)*. **(CCF C类会议)**
+- Wen Zhang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Changyuan Zhao, and Dusit Niyato, UAV-Assisted Joint Data Collection and Wireless Power Transfer for Batteryless Sensor Networks, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2026)*. **(CCF C类会议)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
 
 <span class='anchor' id='-fmzl'></span>
@@ -251,6 +251,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
