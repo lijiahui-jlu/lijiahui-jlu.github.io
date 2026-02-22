@@ -145,6 +145,7 @@ redirect_from:
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**
 - Geng Sun, Mingzhe Fan, Lei Zhang, Hongyang Pan, **<u>Jiahui Li</u>****\***, Chuang Zhang, Linyao Li, Changyuan Zhao, Chau Yuen. Generative AI-enhanced Low-Altitude UAV-Mounted Stacked Intelligent Metasurfaces, *IEEE Transactions on Cognitive Communications and Networking*, 2026. **(IF=7.0) (SCI, 中科院1区)**
+- Jiahao Xu, Hui Kang, Hongjuan Li, Weilun Sun, Geng Sun,  **<u>Jiahui Li</u>****\***. Clinical Data-Driven preliminary screening for Alzheimer’s disease via integrated imputation and evolutionary feature selection, *Information Processing & Management*, 2025. **(IF=6.9) (SCI, 中科院1区)**
 - Wenzheng Yu, Hui Kang, Jiahao Xu, **<u>Jiahui Li</u>****\***, Hongjuan Li, Geng Sun. Enhancing Evolutionary Multitasking for High-Dimensional Feature Selection Through Task Relevance Evaluation and Knowledge Transfer, *Knowledge-based Systems*, 2025. **(IF=7.200) (SCI, 中科院1区)**
 - Miao Wang, Hui Kang, Han Zhang, Hongjuan Li, Shuo Gao, **<u>Jiahui Li</u>****\***, Aerial Multi-Hop Relay Optimization for Integrated Sensing and Communication: A Deep Reinforcement Learning Approach, *Computer Network*, 251, 110633, 2024. **(SCI, CCF B类期刊)**
 - Fang Mei, Yuqing Liu, Shuo Gao, **<u>Jiahui Li</u>****\***, Hui Kang, Sujin Hou, Geng Sun. Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion, *Chinese Journal of Aeronautics*, 2024. **(IF=5.3) (SCI, 中科院1区)**
@@ -251,6 +252,7 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 10. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+
 
 
 
