@@ -68,8 +68,8 @@ items:
   - date: '02/2025'
     content: 'Our paper "UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
-  - date: '01/2025'
-    content: 'Our paper "Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
+  # - date: '01/2025'
+  #   content: 'Our paper "Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
 
   # - date: '12/2024'
   #   content: 'Our paper "Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming" has been awarded the <font color="#C00000">Best Paper Award</font> at the Special Session on Intelligent Signal Processing, IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024). (CCF C类会议)!'
