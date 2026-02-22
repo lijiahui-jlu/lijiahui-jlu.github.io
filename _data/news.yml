@@ -1,6 +1,9 @@
 # news items
 items:
 
+  - date: '02/2026'
+    content: 'Our paper "Clinical Data-Driven preliminary screening for Alzheimer’s disease via integrated imputation and evolutionary feature selection" has been accepted by Information Processing & Management (通信作者, 中科院1区)!'
+
   - date: '01/2026'
     content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/inventions/special_issues/3RO8568SMY">Revolutionizing Surveillance: Unmanned Aerial Vehicle Technology Innovations</a>" in Inventions, welcome to submit papers!'
 
