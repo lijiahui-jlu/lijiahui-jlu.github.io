@@ -1,17 +1,17 @@
 # news items
 items:
 
-  - date: ‘05/2026’
-    content: ‘Our paper "Collaborative Charging Optimization for Wireless Rechargeable Sensor Networks via Heterogeneous Mobile Chargers" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!’
+  - date: '05/2026'
+    content: 'Our paper "Collaborative Charging Optimization for Wireless Rechargeable Sensor Networks via Heterogeneous Mobile Chargers" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
-  - date: ‘04/2026’
-    content: ‘Our paper "Secure Low-altitude Maritime Communications via Intelligent Jamming" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF A类期刊)!’
+  - date: '04/2026'
+    content: 'Our paper "Secure Low-altitude Maritime Communications via Intelligent Jamming" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF A类期刊)!'
 
-  - date: ‘03/2026’
-    content: ‘Our paper "STAR-RIS-assisted Collaborative Beamforming for Low-altitude Wireless Networks" has been accepted by IEEE Transactions on Communications (SCI, CCF B类期刊)!’
+  - date: '03/2026'
+    content: 'Our paper "STAR-RIS-assisted Collaborative Beamforming for Low-altitude Wireless Networks" has been accepted by IEEE Transactions on Communications (SCI, CCF B类期刊)!'
 
-  - date: ‘02/2026’
-    content: ‘Our paper "Clinical Data-Driven preliminary screening for Alzheimer’s disease via integrated imputation and evolutionary feature selection" has been accepted by Information Processing & Management (通信作者, 中科院1区)!’
+  - date: '02/2026'
+    content: 'Our paper "Clinical Data-Driven preliminary screening for Alzheimer’s disease via integrated imputation and evolutionary feature selection" has been accepted by Information Processing & Management (通信作者, 中科院1区)!'
 
   - date: '01/2026'
     content: 'We will organize a Special Issue "<a href="https://www.mdpi.com/journal/inventions/special_issues/3RO8568SMY">Revolutionizing Surveillance: Unmanned Aerial Vehicle Technology Innovations</a>" in Inventions, welcome to submit papers!'
@@ -65,17 +65,17 @@ items:
   - date: '06/2025'
     content: 'Our paper "UAV Swarm-enabled Collaborative Post-disaster Communications in Low Altitude Economy via a Two-stage Optimization Approach" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
 
-  - date: '05/2025'
-    content: 'Our paper "Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '05/2025'
+  #   content: 'Our paper "Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
-  - date: '04/2025'
-    content: 'Our paper "Exploring Multi-Agent Dynamics for Generative AI and Large Language Models in Mobile Edge Networks" has been accepted by IEEE Wireless Communications (通信作者, 中科院1区)!'
+  # - date: '04/2025'
+  #   content: 'Our paper "Exploring Multi-Agent Dynamics for Generative AI and Large Language Models in Mobile Edge Networks" has been accepted by IEEE Wireless Communications (通信作者, 中科院1区)!'
 
-  - date: '03/2025'
-    content: 'Our paper "A Correlated Data-Driven Collaborative Beamforming Approach for Energy-efficient IoT Data Transmission" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '03/2025'
+  #   content: 'Our paper "A Correlated Data-Driven Collaborative Beamforming Approach for Energy-efficient IoT Data Transmission" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
-  - date: '02/2025'
-    content: 'Our paper "UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
+  # - date: '02/2025'
+  #   content: 'Our paper "UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (通信作者, 中科院1区)!'
 
   # - date: '01/2025'
   #   content: 'Our paper "Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (通信作者, CCF-A)!'
