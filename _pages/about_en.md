@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /en/
 title: "Jiahui Li, JLU"
 excerpt: ""
@@ -114,14 +114,24 @@ Coming soon!
 -	Geng Sun, **<u>Jiahui Li</u>**, Yanheng Liu, Shuang Liang**\***, Hui Kang**\***. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9453812/)
 </div>
 </div>
+
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Xianbin Wang, Secure Low-altitude Maritime Communications via Intelligent Jamming, *IEEE Transactions on Mobile Computing*, 2026. **(IF=9.2) (SCI, CCF A类期刊)**
 - Chuang Zhuang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, vol. 24, no. 4, pp. 3041-3058, 2025. **(IF=7.9) (SCI, CCF A类期刊)**
 - Saichao Liu, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, vol. 23, no. 12, pp. 13015-13032, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
 - Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu**\***, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**
 - Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**
+
+- Yixian Wang, Geng Sun, Zemin Sun**\***, Jiacheng Wang, **<u>Jiahui Li</u>**, Changyuan Zhao, Toward Realization of Low-Altitude Economy Networks: Core Architecture, Integrated Technologies, and Future Directions, *IEEE Transactions on Cognitive Communications and Networking*, vol. 11, no. 5, pp. 2788-2820, Oct. 2025. **(IF=7.0) (SCI, 中科院1区, <font color="#C00000">ESI高被引论文、热点论文</font>)**
+
+- Geng Sun, Likun Zhang, **<u>Jiahui Li</u>**, Jing Wu**\***, Jiacheng Wang, Zemin Sun, Age of Information Optimization in Laser-Charged UAV-Assisted IoT Networks: A Multi-Agent Deep Reinforcement Learning Method, *IEEE Transactions on Network Science and Engineering*, vol. 13, pp. 1436-1457, 2026. **(IF=7.900) (SCI, 中科院1区, <font color="#C00000">ESI热点论文</font>)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, vol. 233, pp. 120771, 2023. **(IF=8.665) (SCI, 中科院1区)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, vol. 215, pp. 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, vol. 132, pp. 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**
 - Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, vol. 23, no. 10, pp. 13235-13251, 2024. **(IF=10.400) (SCI, 中科院1区)**
+
+- Xinyue Liang, Hui Kang, Junwei Che, **<u>Jiahui Li</u>****\***, Geng Sun**\***, Qingqing Wu, Jiacheng Wang, Dusit Niyato, STAR-RIS-assisted Collaborative Beamforming for Low-altitude Wireless Networks, *IEEE Transactions on Communications*, 2026. **(IF=8.3) (SCI, CCF B类期刊)**
+- Jianhang Yao, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Hongjuan Li, Jiacheng Wang, Yinqiu Liu, Collaborative Charging Optimization for Wireless Rechargeable Sensor Networks via Heterogeneous Mobile Chargers, *IEEE Internet of Things Journal*, 2026. **(IF=8.9) (SCI, 中科院1区)**
+
 - Shuang Liang, Minghao Yin, Geng Sun**\***, **<u>Jiahui Li</u>****\***. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, vol. 11, no. 4, pp. 7198-7213, 2024. **(IF=10.600) (SCI, 中科院1区)**
 - Hongjuan Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Xue Wang, Dusit Niyato, Victor C.M. Leung. UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks, *IEEE Internet of Things Journal*, vol. 12, no. 8, pp. 10834-10850, 2025. **(IF=8.200) (SCI, 中科院1区)**
 - Shuang Liang, Minhao Yin, Wenwen Xie, Zenmin Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning, *IEEE Internet of Things Journal*, vol. 12, no. 10, pp. 13455-13468, 2025. **(IF=8.200) (SCI, 中科院1区)**
@@ -139,6 +149,8 @@ Coming soon!
 - Bingtian Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
 - Geng Sun, Bei Liu, **<u>Jiahui Li</u>****\***, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+
+- Feng Wang, Xingqiu He, **<u>Jiahui Li</u>**, Lidong Zhu**\***. Beyond Snapshot Decisions: Mobility Graph-Based Handover Optimization in Satellite Networks, *Proceedings of the 5th International Conference on Intelligent Systems, Communications and Computer Networks (ISCCN)*, Xinxiang, China, 24-26 April, 2026. **(<font color="#C00000">Excellent Paper Award</font>)**
 
 <span class='anchor' id='-fmzl'></span>
 
