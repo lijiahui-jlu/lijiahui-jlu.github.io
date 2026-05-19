@@ -159,10 +159,6 @@ redirect_from:
 
 - Saichao Liu, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, vol. 23, no. 12, pp. 13015-13032, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
 
-- Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu**\***, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**
-
-- Geng Sun, **<u>Jiahui Li</u>**, Aimin Wang**\***, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**
-
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, vol. 233, pp. 120771, 2023. **(IF=8.665) (SCI, 中科院1区)**
 
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, vol. 215, pp. 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**
